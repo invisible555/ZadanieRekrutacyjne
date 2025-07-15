@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\zadanierekrutacyjne\bin\Debug\net8.0\zadanierekrutacyjne.exe
+C:\Users\Dell\Desktop\zadanierekrutacyjne\bin\Debug\net8.0\zadanierekrutacyjne.deps.json
+C:\Users\Dell\Desktop\zadanierekrutacyjne\bin\Debug\net8.0\zadanierekrutacyjne.runtimeconfig.json
+C:\Users\Dell\Desktop\zadanierekrutacyjne\bin\Debug\net8.0\zadanierekrutacyjne.dll
+C:\Users\Dell\Desktop\zadanierekrutacyjne\bin\Debug\net8.0\zadanierekrutacyjne.pdb
+C:\Users\Dell\Desktop\zadanierekrutacyjne\obj\Debug\net8.0\zadanierekrutacyjne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\zadanierekrutacyjne\obj\Debug\net8.0\zadanierekrutacyjne.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\zadanierekrutacyjne\obj\Debug\net8.0\zadanierekrutacyjne.AssemblyInfo.cs
+C:\Users\Dell\Desktop\zadanierekrutacyjne\obj\Debug\net8.0\zadanierekrutacyjne.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\zadanierekrutacyjne\obj\Debug\net8.0\zadanierekrutacyjne.dll
+C:\Users\Dell\Desktop\zadanierekrutacyjne\obj\Debug\net8.0\refint\zadanierekrutacyjne.dll
+C:\Users\Dell\Desktop\zadanierekrutacyjne\obj\Debug\net8.0\zadanierekrutacyjne.pdb
+C:\Users\Dell\Desktop\zadanierekrutacyjne\obj\Debug\net8.0\zadanierekrutacyjne.genruntimeconfig.cache
+C:\Users\Dell\Desktop\zadanierekrutacyjne\obj\Debug\net8.0\ref\zadanierekrutacyjne.dll
