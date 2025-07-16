@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Net.Http.Json;
 using System.Text;
@@ -11,6 +12,7 @@ namespace zadanierekrutacyjne
 {
     internal class CatFact : ICatFact
     {
+        private const string urlAddress = "https://catfact.ninja/fact";
         private readonly HttpClient _httpClient;
         public CatFact(HttpClient httpClient)
         {
@@ -20,7 +22,7 @@ namespace zadanierekrutacyjne
 
         public async Task<CatFactResponse> GetCatFactAsync()
         {
-            var catFact = await _httpClient.GetAsync("https://catfact.ninja/fact");
+            var catFact = await _httpClient.GetAsync(urlAddress);
             if (!catFact.IsSuccessStatusCode)
             {
                 throw new Exception($"Error fetching cat fact: {catFact.StatusCode}");

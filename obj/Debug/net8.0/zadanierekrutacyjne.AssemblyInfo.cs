@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zadanierekrutacyjne")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebba6360c5bf545e15e4a27e5d9bf69452c407ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("zadanierekrutacyjne")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zadanierekrutacyjne")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
